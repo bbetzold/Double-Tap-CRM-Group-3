@@ -1,0 +1,268 @@
+.top-right {
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+
+
+}
+
+.top-left {
+    text-align: left;
+}
+
+
+
+
+.top-right2 img {
+    width: 440px;
+    height: 460px;
+    padding-bottom: 15px;
+}
+
+
+.header-list {
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+
+
+.middle {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.center {
+    text-align: center;
+    border-top: 1px solid grey;
+    padding-top: 4%;
+    margin-top: 6%;
+}
+
+.collect-box {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    height: 490px;
+    width: 100%;
+    color: white;
+    margin: 4%;
+}
+
+.middle-left-side img {
+    width: 100%;
+    height: 100%;
+    padding-left: 10%;
+    padding-top: 11%;
+    padding-bottom: 25%;
+}
+
+.middle-left-side {
+    border: 1px solid grey;
+    border-radius: 25px 0 0 25px;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-right: 2%;
+
+}
+
+.middle-right-side {
+    border: 1px solid rgba(0, 60, 255, 0.966);
+    background-color: rgba(0, 60, 255, 0.966);
+    border-radius: 0 25px 25px 0;
+    padding-top: 5%;
+    padding-left: 5%;
+
+
+}
+
+.third-paragraph {
+    display: flex;
+    flex-direction: row;
+    margin-top: 8%;
+    margin-bottom: 7%;
+}
+
+.center-middle {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.get-paid {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 6%;
+}
+
+.bottom-left img {
+    width: 100%;
+    height: 100%;
+    padding-right: 17%;
+    padding-top: 20%;
+    padding-bottom: 90px;
+
+
+}
+
+.bottom-right {
+    color: white;
+    height: 100px;
+    text-align: center;
+    background-color: rgba(0, 60, 255, 0.966);
+    border-radius: 0 25px 25px 0;
+    padding-top: 7%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 420px;
+
+}
+
+
+/*top-buttons*/
+
+.top_side li {
+    display: inline;
+    text-align: center;
+
+}
+
+.top-buttons {
+    color: black;
+    overflow: hidden;
+}
+
+/*top-buttons style*/
+.top-buttons nav {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 25px;
+}
+
+
+.top-buttons a:hover {
+    color: lightskyrgba(0, 60, 255, 0.966);
+}
+
+.logo {
+    position: relative;
+    left: 20px;
+    width: 105px;
+    height: 37px;
+}
+
+/* Images 
+.row-headerside {
+    width: 50%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+*/
+
+/*buttons*/
+.button {
+    background-color: rgba(0, 60, 255, 0.966);
+    border: none;
+    border-radius: 8px;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white;
+    color: rgba(0, 60, 255, 0.966);
+    border: 2px solid rgba(0, 60, 255, 0.966);
+    border-radius: 10px;
+    width: 125%;
+    font-weight: bold;
+}
+
+.button2 {
+    background-color: rgba(0, 60, 255, 0.966);
+    color: white;
+    border: 2px solid rgba(0, 60, 255, 0.966);
+    margin-left: 35%;
+    border-radius: 10px;
+    width: 120%;
+}
+
+.button3 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: rgba(0, 60, 255, 0.966);
+    border: 2px solid rgba(0, 60, 255, 0.966);
+    margin-left: 9px;
+    margin-top: 20px;
+}
+
+.button4 {
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color: rgba(0, 60, 255, 0.966);
+    color: white;
+    border: 2px solid rgba(0, 60, 255, 0.966);
+    margin-top: 20px;
+
+}
+
+
+
+.row-collect-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 100px;
+    text-align: left;
+    border: none;
+}
+
+
+
+/*The Footer*/
+
+.footer {
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 60, 255, 0.966);
+    padding-top: 2%;
+    height: 350px;
+}
+
+.bot-icons {
+    font-family: fontawesome;
+    font-size: large;
+    margin-top: 1%;
+}
+
+.get-started {
+    background-color: rgba(128, 255, 0, 0.822);
+    width: 10%;
+    color: rgba(255, 255, 255, 0.918);
+    border-color: rgba(128, 255, 0, 0.822);
+    border-radius: 5px;
+    padding-left: 1.2%;
+    padding-bottom: 0.1%;
+}
+
+.chat {
+    background-color: white;
+    color: rgba(0, 60, 255, 0.966);
+    margin-left: 4%;
+    width: 8%;
+    border-color: white;
+    border-radius: 5px;
+    font-size: 90%;
+    padding: 0.2%;
+}
