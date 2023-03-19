@@ -133,17 +133,18 @@ form.sign-up-form{
     background-color: #001236;
 }
 
-.social-text{
+.text{
     padding: 0.7rem 0;
     font-size: 1rem;
 }
 
-.social-media{
-    display: flex;
-    justify-content: center;
+.social {
+    display: block;
+    margin: 0 auto;
+   ;
 }
 
-.social-icon{
+.social {
     height: 46px;
     width: 46px;
     border: 1px solid #333;
@@ -226,8 +227,7 @@ form.sign-up-form{
 .right-panel .content, .right-panel .image{
     transform: translateX(800px);
 }
-
-/* ANIMATION sTYLING */
+/* Animation styling */
 
 .container.sign-up-mode:before{
     transform: translate(100%, -50%);
