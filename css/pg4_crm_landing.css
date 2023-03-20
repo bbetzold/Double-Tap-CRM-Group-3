@@ -16,7 +16,7 @@ li{
     display: inline;
 }
 
-.navbar > li,a{
+.navbar > li{
     display: flex;
     justify-content: space-evenly;
     font-size: 15px;
