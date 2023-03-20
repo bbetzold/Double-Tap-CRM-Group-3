@@ -2,8 +2,8 @@ Read-me Page
 
 Chuck, pg1_crm_sign_up.html & pg1_crm_sign_up.css
 
-Aristo, pg2_crm_sign_in.html & pg2_crm_sign_in.css
+Ewa, pg2_crm_sign_in.html & pg2_crm_sign_in.css
 
-Ewa, pg3_crm_how_it_works.html & pg3_crm_how_it_works.css
+Aristo, pg3_crm_how_it_works.html & pg3_crm_how_it_works.css
 
 Ben, pg4_crm_landing.html & pg4_crm_landing.css
